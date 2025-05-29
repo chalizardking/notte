@@ -1,6 +1,6 @@
 [project]
 name = "notte"
-version = "1.4.4.dev"
+version = "1.4.5"
 description = "Notte, the full-stack web AI agent framework"
 readme = "README.md"
 authors = [
